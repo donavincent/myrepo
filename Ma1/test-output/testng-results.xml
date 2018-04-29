@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="77672" started-at="2018-04-22T11:39:40Z" finished-at="2018-04-22T11:40:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="77672" started-at="2018-04-22T11:39:40Z" finished-at="2018-04-22T11:40:58Z">
+      <class name="com.Ma1.CreateMa1Test.CreateTest">
+        <test-method status="PASS" signature="ConfigBC()[pri:0, instance:com.Ma1.CreateMa1Test.CreateTest@1e88b3c]" name="ConfigBC" is-config="true" duration-ms="77130" started-at="2018-04-22T17:09:40Z" finished-at="2018-04-22T17:10:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigBC -->
+        <test-method status="PASS" signature="ConfigBM()[pri:0, instance:com.Ma1.CreateMa1Test.CreateTest@1e88b3c]" name="ConfigBM" is-config="true" duration-ms="1" started-at="2018-04-22T17:10:58Z" finished-at="2018-04-22T17:10:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigBM -->
+        <test-method status="PASS" signature="cct()[pri:0, instance:com.Ma1.CreateMa1Test.CreateTest@1e88b3c]" name="cct" duration-ms="14" started-at="2018-04-22T17:10:58Z" finished-at="2018-04-22T17:10:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cct -->
+        <test-method status="PASS" signature="ConfigAC()[pri:0, instance:com.Ma1.CreateMa1Test.CreateTest@1e88b3c]" name="ConfigAC" is-config="true" duration-ms="449" started-at="2018-04-22T17:10:58Z" finished-at="2018-04-22T17:10:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigAC -->
+      </class> <!-- com.Ma1.CreateMa1Test.CreateTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
